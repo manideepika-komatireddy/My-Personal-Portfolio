@@ -1,12 +1,11 @@
-# 1.Title:MY PERSONAL PORTFOLIO WEBSITE
+**MY PERSONAL PORTFOLIO WEBSITE**
 
 
-
-## 2.Abstract
+**Abstract**
 
 With the contemporary digital world, a personal portfolio website is a necessary platform for one to showcase his professional identity and technical skills. This paper presents how a personal portfolio website is designed and developed with only basic frontend technologies—HTML and CSS. The project focuses on introducing fundamental web development principles like semantic structuring, styling, and responsive design without the need for sophisticated frameworks. The portfolio exhibits various sections such as personal introduction, education history, project highlights, and contact information. The deployment focuses on simplicity, usability, and visual consistency, hence constituting an effective learning activity for students starting out in web development. The site is meant to be deployed online and shows how basic tools can develop an attractive and useful personal platform.
 
-## 3.Introduction
+## 1.Introduction
 
 In the age of digital technology, having a web presence has become an essential necessity for students and professionals of all fields. A personal portfolio website is an electronic presence, promoting an individual's abilities, work, and accomplishments to prospective employers, partners, and fellow scholars. In contrast to social media profiles or third-party sites, a personal portfolio offers complete artistic control over the presentation of content as well as design.
 
@@ -18,7 +17,7 @@ This paper is structured as follows: Section III briefly summarizes related rese
 
 
 
-## 4.Literature Review
+## 2.Literature Review
 
 The idea of personal portfolio websites has come a long way with the progress in web technologies. Various developers and designers have developed portfolio platforms to present their professional profiles, creative work, and technical accomplishments. Most studies and online tutorials stress that a professionally designed digital portfolio can increase one's visibility and employability within the competitive job market.
 
@@ -30,9 +29,9 @@ Conversely, this project is focused on the learning aspect of making a personal 
 
 
 
-## 5.Methodology
+## 3.Methodology
 
-##### 5.1 Tools and Technologies
+##### 3.1 Tools and Technologies
 
 My Personal Portfolio creation employs basic frontend technologies, namely HTML and CSS. HTML lays the site's structural base, allowing one to build semantic sections like the header, navigation bar, about us, projects showcase, and contact. CSS is used to manage the visual styling, including layout design, colour schemes, fonts, and responsive traits.
 
@@ -40,7 +39,7 @@ No sophisticated frameworks or libraries are utilized in this entry-level implem
 
 
 
-##### 5.2 Design Approach
+##### 3.2 Design Approach
 
 Portfolio site is developed using a modular and responsive design approach to make it usable across devices like desktops, tablets, and mobile phones. The design follows the following steps:
 
@@ -54,7 +53,7 @@ Portfolio site is developed using a modular and responsive design approach to ma
 
 5.Responsive Design Implementation: Using media queries and flexible layouts to adapt the interface to various screen sizes.
 
-##### 5.3 System Architecture
+##### 3.3 System Architecture
 
 The website follows a single-page modular architecture with the following components:
 
@@ -70,7 +69,7 @@ The system is made to be light in weight and has fewer external dependencies, ma
 
 
 
-## 6.Website Output
+## 4.Website Output
 
 The output of My Personal Portfolio is a complete working, starter-level personal website that can be accessed using any contemporary web browser. The website displays:
 
@@ -86,13 +85,13 @@ The site achieves clean navigation, simple and readable typography, and an aesth
 
 
 
-## 7\. Performance and Responsiveness
+## 5. Performance and Responsiveness
 
 The site is light in terms of loading speed and has fewer external dependencies. It is responsive across a variety of devices, such as desktop, tablet, and smartphone, through the application of media queries and adaptable layouts. The UI lays out content properly to fit smaller screens without sacrificing content or functionality, which is important to today's web accessibility expectations.
 
 
 
-## 8.Discussion
+## 6.Discussion
 
 There are a number of major takeaways from the project:
 
@@ -106,7 +105,7 @@ In totality, the website adequately realizes goals for a novice-level project. I
 
 
 
-## 9.Conclusion
+## 7.Conclusion
 
 This paper introduced the design and creation of My Personal Portfolio, a novice-level personal site developed using HTML and CSS. The project illustrated how basic frontend technologies can be leveraged to develop a clean, working, and attractive web presence. Through emphasis on semantic structure, consistent styling, and responsive design, the site offers a usable platform for presenting personal information, educational history, and projects.
 
@@ -114,7 +113,7 @@ The process of implementation enabled the developer to have hands-on experience 
 
 
 
-## 10.Future Work
+## 8.Future Work
 
 Although the existing website is successful in fulfilling its main goals, there are some modifications and additions that can be made to improve functionality and usability:
 
@@ -131,5 +130,6 @@ Although the existing website is successful in fulfilling its main goals, there 
 These improvements will turn the site from a newbie-level project into a professional-level portfolio and give them extra learning experience in frontend and full-stack develop
 
 &nbsp;
+
 
 
